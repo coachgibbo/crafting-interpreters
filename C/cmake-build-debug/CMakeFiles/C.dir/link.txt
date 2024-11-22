@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/C.dir/library.c.o "CMakeFiles/C.dir/challenges/chapter1/doubly-linked-list.c.o" -o C

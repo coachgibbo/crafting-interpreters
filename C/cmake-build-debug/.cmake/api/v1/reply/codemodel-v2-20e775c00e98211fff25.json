@@ -1,0 +1,92 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16.3"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "challenges",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-challenges-Debug-7e2a084a3cf695e06fbb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16.3"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "challenges"
+				},
+				{
+					"build" : "challenges/chapter1",
+					"jsonFile" : "directory-challenges.chapter1-Debug-5f49fb209492ca96390c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16.3"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "challenges/chapter1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "C",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "doubly_linked_list::@86d00c09afb9e6e6db40",
+					"jsonFile" : "target-doubly_linked_list-Debug-c106ba739ff8d45ff2df.json",
+					"name" : "doubly_linked_list",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/coachgibbo/crafting-interpreters/C/cmake-build-debug",
+		"source" : "/home/coachgibbo/crafting-interpreters/C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,1 @@
+/usr/bin/cc -g "CMakeFiles/doubly_linked_list.dir/doubly-linked-list.c.o" -o doubly_linked_list

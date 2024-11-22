@@ -1,0 +1,7 @@
+/home/coachgibbo/crafting-interpreters/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/coachgibbo/crafting-interpreters/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/coachgibbo/crafting-interpreters/C/cmake-build-debug/challenges/CMakeFiles/edit_cache.dir
+/home/coachgibbo/crafting-interpreters/C/cmake-build-debug/challenges/CMakeFiles/rebuild_cache.dir
+/home/coachgibbo/crafting-interpreters/C/cmake-build-debug/challenges/chapter1/CMakeFiles/doubly_linked_list.dir
+/home/coachgibbo/crafting-interpreters/C/cmake-build-debug/challenges/chapter1/CMakeFiles/edit_cache.dir
+/home/coachgibbo/crafting-interpreters/C/cmake-build-debug/challenges/chapter1/CMakeFiles/rebuild_cache.dir
